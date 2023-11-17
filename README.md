@@ -87,9 +87,13 @@ Vídeo com a apresentação final da API do "semestre/ano"
   
 ### Mindset Digital
 > Canva
+> 
 > PowerPoint
+> 
 > Word
+> 
 > Excel
+> 
 > TTS
 
 # Cronograma das Sprints
