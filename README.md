@@ -80,13 +80,10 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ## Tecnologias Utilizadas
 ### Produto 
-> 
+> Computadores
 
 ### Tecnológias Específicas/Apoio
-> 
-  
-### Mindset Digital
-> Canva
+>  Canva
 
 > PowerPoint
 
@@ -95,6 +92,10 @@ Vídeo com a apresentação final da API do "semestre/ano"
 > Excel
 
 > TTS
+
+> GitHub
+  
+### Mindset Digital
 
 # Cronograma das Sprints
 
@@ -132,20 +133,19 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
 
 ## Hard Skill (saber tecnológico)
-<details>
+<details> 
 <summary>Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|Informática  | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+|SWOT e BrainStorm | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+|Previsão de demanda  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+|Curva ABC | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|Método CANVA | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| desconhecido | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
  
 </details>
 
@@ -155,12 +155,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|Busca por execelência  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+|Cooperação  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|Self learning  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+|Respeito  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+|Cumprimento de prazos  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|Perserverança  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 
 </details>
 
@@ -170,4 +170,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | - | - | - |
 |Product Owner| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Scrum Master| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member|Gustavo Henrique Silva Santos| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+
