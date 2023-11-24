@@ -134,6 +134,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
 
 
+
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
