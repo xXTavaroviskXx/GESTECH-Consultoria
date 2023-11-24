@@ -126,49 +126,49 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 >[x]"Lógica"
 
 ## Sprint 2 - Previsão de demanda
->[]"BrainStorm"
+-[ ]"BrainStorm"
 
->[x]"Análise de dados"
+-[x]"Análise de dados"
 
->[x]"Planilha de dados"
+-[x]"Planilha de dados"
 
->[x]"Mapas ou gráficos"
+-[x]"Mapas ou gráficos"
 
->[x]"pesquisas"
+-[x]"pesquisas"
 
->[]"Criatividade"
+-[ ]"Criatividade"
 
->[x]"Lógica"
+-[x]"Lógica"
       
 ## Sprint 3 - Curva ABC
->[]"BrainStorm"
+-[ ]"BrainStorm"
 
->[x]"Análise de dados"
+-[x]"Análise de dados"
 
->[x]"Planilha de dados"
+-[x]"Planilha de dados"
 
->[x]"Mapas ou gráficos"
+-[x]"Mapas ou gráficos"
 
->[x]"pesquisas"
+-[x]"pesquisas"
 
->[]"Criatividade"
+-[ ]"Criatividade"
 
->[x]"Lógica"
+-[x]"Lógica"
       
 ## Sprint 4 - Método Canvas
->[x]"BrainStorm"
+-[x]"BrainStorm"
 
->[x]"Análise de dados"
+-[x]"Análise de dados"
 
->[]"Planilha de dados"
+-[ ]"Planilha de dados"
 
->[]"Mapas ou gráficos"
+-[ ]"Mapas ou gráficos"
 
->[x]"pesquisas"
+-[x]"pesquisas"
 
->[x]"Criatividade"
+-[x]"Criatividade"
 
->[x]"Lógica"
+-[x]"Lógica"
 
 
 
