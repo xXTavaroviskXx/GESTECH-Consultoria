@@ -127,29 +127,47 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Sprint 2 - Previsão de demanda
 >[]"BrainStorm"
+
 >[x]"Análise de dados"
+
 >[x]"Planilha de dados"
+
 >[x]"Mapas ou gráficos"
+
 >[x]"pesquisas"
+
 >[]"Criatividade"
+
 >[x]"Lógica"
       
 ## Sprint 3 - Curva ABC
 >[]"BrainStorm"
+
 >[x]"Análise de dados"
+
 >[x]"Planilha de dados"
+
 >[x]"Mapas ou gráficos"
+
 >[x]"pesquisas"
+
 >[]"Criatividade"
+
 >[x]"Lógica"
       
 ## Sprint 4 - Método Canvas
 >[x]"BrainStorm"
+
 >[x]"Análise de dados"
+
 >[]"Planilha de dados"
+
 >[]"Mapas ou gráficos"
+
 >[x]"pesquisas"
+
 >[x]"Criatividade"
+
 >[x]"Lógica"
 
 
