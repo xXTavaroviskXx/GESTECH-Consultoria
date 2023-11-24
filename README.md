@@ -22,11 +22,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  dd/mm/aaaa| concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| dd/mm/aaaa | concluido|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| dd/mm/aaaa |em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
+|Kick Off | dd/mm/2023 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01 | dd/mm/2023 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02|  dd/mm/2023| concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| dd/mm/2023 | concluido|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|04| dd/mm/2023 |em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 > Possíveis status: a fazer, em progresso e concluido
@@ -49,20 +49,17 @@ Sprint | Previsão | Status| Histórico|
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Colocar o vídeo da apresentação
 
-[![SPRINT 1](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+[![SPRINT 1](https://youtu.be/5jXWYyPR2WU)
 
 
 ## Sprint 2
->Colocar o vídeo da apresentação
 
-[![SPRINT 2](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+[![SPRINT 2](https://youtu.be/_7fCu8vkHKo)
 
 ## Sprint 3
->Colocar o vídeo da apresentação
 
-[![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+[![SPRINT 3](https://youtu.be/OQ94gXruEFw)
 
 
 ## Sprint 4
@@ -145,7 +142,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 |Previsão de demanda  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 |Curva ABC | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 |Método CANVA | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| desconhecido | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
  
 </details>
 
