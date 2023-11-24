@@ -115,23 +115,42 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 ## Burndown
->Colocar aqui Burndown do projeto
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
-</p>
 
 ## Sprint 1 - SWOT
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+>[x]"BrainStorm"
+>[x]"Análise de dados"
+>[]"Planilha de dados"
+>[x]"Mapas ou gráficos"
+>[x]"pesquisas"
+>[]"Criatividade"
+>[x]"Lógica"
 
 ## Sprint 2 - Previsão de demanda
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+>[]"BrainStorm"
+>[x]"Análise de dados"
+>[x]"Planilha de dados"
+>[x]"Mapas ou gráficos"
+>[x]"pesquisas"
+>[]"Criatividade"
+>[x]"Lógica"
       
 ## Sprint 3 - Curva ABC
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+>[]"BrainStorm"
+>[x]"Análise de dados"
+>[x]"Planilha de dados"
+>[x]"Mapas ou gráficos"
+>[x]"pesquisas"
+>[]"Criatividade"
+>[x]"Lógica"
       
 ## Sprint 4 - Método Canvas
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+>[x]"BrainStorm"
+>[x]"Análise de dados"
+>[]"Planilha de dados"
+>[]"Mapas ou gráficos"
+>[x]"pesquisas"
+>[x]"Criatividade"
+>[x]"Lógica"
 
 
 
