@@ -59,9 +59,9 @@ Sprint | Previsão | Status| Histórico|
 
 ## Sprint 3
 
-[![SPRINT 3](https://youtu.be/OQ94gXruEFw)
+[![SPRINT 3](https://img.youtube.com/vi/OQ94gXruEFw/0.jpg)](https://youtu.be/OQ94gXruEFw/video)
 
-
+https://youtu.be/OQ94gXruEFw
 ## Sprint 4
 >Colocar o vídeo da apresentação
 
