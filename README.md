@@ -45,7 +45,9 @@ Sprint | Previsão | Status| Histórico|
 
 # Objetivo do Projeto
 >Aprimorar a gestão e a experiência do nosso cliente, a Doce Sabor;
+
 >Por em prática conceitos de gestão;
+
 >Desenvolver o maior desempenho possivel para nosso cliente.
 
 # Funcionalidades e Demonstrações das Sprints
