@@ -121,16 +121,16 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
 </p>
 
-## Sprint 1 - Concepção
+## Sprint 1 - SWOT
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
 
-## Sprint 2 - Desenvolvimento do Projeto
+## Sprint 2 - Previsão de demanda
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
       
-## Sprint 3 - Implementação
+## Sprint 3 - Curva ABC
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
       
-## Sprint 4 - Operacionalização
+## Sprint 4 - Método Canvas
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
 
 
