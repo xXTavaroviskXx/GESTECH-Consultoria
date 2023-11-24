@@ -117,13 +117,19 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Burndown
 
 ## Sprint 1 - SWOT
->[x]"BrainStorm"
->[x]"Análise de dados"
->[]"Planilha de dados"
->[x]"Mapas ou gráficos"
->[x]"pesquisas"
->[]"Criatividade"
->[x]"Lógica"
+-[x]"BrainStorm"
+
+-[x]"Análise de dados"
+
+-[]"Planilha de dados"
+
+-[x]"Mapas ou gráficos"
+
+-[x]"pesquisas"
+
+-[]"Criatividade"
+
+-[x]"Lógica"
 
 ## Sprint 2 - Previsão de demanda
 -[ ]"BrainStorm"
