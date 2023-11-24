@@ -50,18 +50,19 @@ Sprint | Previsão | Status| Histórico|
 
 ## Sprint 1
 
-[![SPRINT 1](https://youtu.be/5jXWYyPR2WU)
+[![SPRINT 1](https://img.youtube.com/vi/https://youtu.be/5jXWYyPR2WU/0.jpg)](https://youtu.be/https://youtu.be/5jXWYyPR2WU)
 
 
 ## Sprint 2
 
-[![SPRINT 2](https://youtu.be/_7fCu8vkHKo)
+[![SPRINT 2](https://img.youtube.com/vi/_7fCu8vkHKo/0.jpg)](https://youtu.be/_7fCu8vkHKo)
+
 
 ## Sprint 3
 
 [![SPRINT 3](https://img.youtube.com/vi/OQ94gXruEFw/0.jpg)](https://youtu.be/OQ94gXruEFw/video)
 
-https://youtu.be/OQ94gXruEFw
+
 ## Sprint 4
 >Colocar o vídeo da apresentação
 
