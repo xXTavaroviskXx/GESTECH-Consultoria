@@ -143,8 +143,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 |Informática  | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 |SWOT e BrainStorm | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 |Previsão de demanda  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-|Curva ABC | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|Método CANVA | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+|Curva ABC | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+|Método CANVA | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
  
 </details>
 
@@ -158,7 +158,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 |Cooperação  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 |Self learning  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 |Respeito  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-|Cumprimento de prazos  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|Cumprimento de prazos  | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 |Perserverança  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 
 </details>
@@ -167,9 +167,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner|Matheus Alves | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Scrum Master|Bruna Gabriely | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member|Gustavo Henrique Silva Santos| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member|David Pontes | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member|Wellington Silva Fernande | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 
