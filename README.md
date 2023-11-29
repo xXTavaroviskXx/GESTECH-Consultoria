@@ -81,8 +81,14 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ## Tecnologias Utilizadas
 ### Produto 
-ºSprint 1
+>Sprint 1
 SWOT
+>Sprint 2
+Previsão de demanda
+>Sprint 3
+Curva ABC
+>Sprint 4
+Método CANVAS
 
 ### Tecnológias Específicas/Apoio
 >  Canva
