@@ -81,8 +81,8 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ## Tecnologias Utilizadas
 ### Produto 
-> ºSprint 1
-° SWOT
+ºSprint 1
+SWOT
 
 ### Tecnológias Específicas/Apoio
 >  Canva
