@@ -68,7 +68,6 @@ Sprint | Previsão | Status| Histórico|
 
 
 ## Sprint 4
->Colocar o vídeo da apresentação
 
 [![SPRINT 4](https://img.youtube.com/vi/xIn6_WVyuQY/0.jpg)](https://youtu.be/xIn6_WVyuQY)
 
