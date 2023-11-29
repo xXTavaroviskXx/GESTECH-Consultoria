@@ -104,7 +104,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/Gustavo5097/projects/1
+#### Cronograma das Sprints[(clique aqui)](https://github.com/users/Fox-Six-consultoria/projects/Cronograma
 )
 
 
