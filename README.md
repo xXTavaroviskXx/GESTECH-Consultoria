@@ -22,12 +22,12 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 05/09/2023 | concluido| [Ver Relatório](https://youtu.be/5jXWYyPR2WU) | 
-|01 | 24/09/2023 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  15/10/2023| concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 05/11/2023 | concluido|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| 26/11/2023 |em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
-|Feira de Soluções|??/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 05/09/2023 | concluido| [Ver Relatório](Sem Relatório) | 
+|01 | 24/09/2023 | concluido| [Ver Relatório](https://youtu.be/5jXWYyPR2WU) | 
+|02|  15/10/2023| concluido |[Ver Relatório](https://youtu.be/_7fCu8vkHKo) | 
+|03| 05/11/2023 | concluido|[Ver Relatório](https://youtu.be/OQ94gXruEFw/video) | 
+|04| 26/11/2023 |em progresso |[Ver Relatório]() |
+|Feira de Soluções|??/12/2023 |a fazer |[Ver Relatório]() | 
 
 > Possíveis status: a fazer, em progresso e concluido
 
