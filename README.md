@@ -26,8 +26,8 @@ Sprint | Previsão | Status| Histórico|
 |01 | 24/09/2023 | concluido| [Ver Relatório](https://youtu.be/5jXWYyPR2WU) | 
 |02|  15/10/2023| concluido |[Ver Relatório](https://youtu.be/_7fCu8vkHKo) | 
 |03| 05/11/2023 | concluido|[Ver Relatório](https://youtu.be/OQ94gXruEFw/video) | 
-|04| 26/11/2023 |em progresso |[Ver Relatório]() |
-|Feira de Soluções|??/12/2023 |a fazer |[Ver Relatório]() | 
+|04| 26/11/2023 |em progresso |[Ver Relatório](https://youtu.be/xIn6_WVyuQY) |
+|Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório]() | 
 
 > Possíveis status: a fazer, em progresso e concluido
 
@@ -70,7 +70,7 @@ Sprint | Previsão | Status| Histórico|
 ## Sprint 4
 >Colocar o vídeo da apresentação
 
-[![SPRINT 4](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+[![SPRINT 4](https://img.youtube.com/vi/xIn6_WVyuQY/0.jpg)](https://youtu.be/xIn6_WVyuQY)
 
 
 ## Apresentação final (se necessario)
