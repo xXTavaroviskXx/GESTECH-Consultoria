@@ -87,7 +87,7 @@ SWOT
 
 >Sprint 2
 
-Previsão de demanda
+`Previsão de demanda`
 
 >Sprint 3
 
