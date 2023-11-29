@@ -83,19 +83,19 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ### Produto 
 * Sprint 1
 
-° SWOT
+  - SWOT
 
 * Sprint 2
 
-° Previsão de demanda
+  - Previsão de demanda
 
 * Sprint 3
 
-° Curva ABC
+  - Curva ABC
 
 * Sprint 4
 
-° Método CANVAS
+  - Método CANVAS
 
 ### Tecnológias Específicas/Apoio
 >  Canva
