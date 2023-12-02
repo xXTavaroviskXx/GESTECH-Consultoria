@@ -42,11 +42,8 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
->Aprimorar a gestão e a experiência do nosso cliente, a Doce Sabor;
 
->Por em prática conceitos de gestão;
-
->Desenvolver o maior desempenho possivel para nosso cliente.
+Temos como objetivo melhorar a gestão da Doce Sabor utilizando da nossa aprendizagem durante o curso, reduzindo custos, aprimorando logisticas e criando nossas visões de negócio para a empresa, aumentando sua eficiência e produtvidade.
 
 # Funcionalidades e Demonstrações das Sprints
 
@@ -96,20 +93,22 @@ Vídeo com a apresentação final da API do "semestre/ano"
   - Método CANVAS
 
 ### Tecnológias Específicas/Apoio
->  Canva
 
-> PowerPoint
+* Canva
 
-> Word
+* PowerPoint
 
-> Excel
+* Word
 
-> TTS
+* Excel
 
-> GitHub
+* TTS Maker
+
+* GitHub
   
 ### Mindset Digital
-
+Estamos incentivando nosso cliente a buscar soluções criativas para problemas ou oportuidades de crescimento, analisar o macro e micro ambiente e sempre buscar novas oportunidades e possíveis ameaças para o negócio.
+Tambem encorajamos a utilização da tecnologia e das redes sociais para manter ou aumentar sua posição no mercado.
 # Cronograma das Sprints
 
 ## Cronograma
