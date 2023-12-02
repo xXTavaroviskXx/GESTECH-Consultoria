@@ -16,7 +16,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Autores](#autores)
   
 # Projeto (API) 
-Neste semestre estamos trabalhando como um consultoria para uma empresa do ramo alimenticio.
+Neste semestre estamos trabalhando como uma consultoria para uma empresa do ramo alimenticio.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
