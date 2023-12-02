@@ -117,75 +117,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
-
+>
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
 </p>
 
 ## Burndown
 
-## Sprint 1 - SWOT
--[x]"BrainStorm"
-
--[x]"Análise de dados"
-
--[]"Planilha de dados"
-
--[x]"Mapas ou gráficos"
-
--[x]"pesquisas"
-
--[]"Criatividade"
-
--[x]"Lógica"
-
-## Sprint 2 - Previsão de demanda
--[ ]"BrainStorm"
-
--[x]"Análise de dados"
-
--[x]"Planilha de dados"
-
--[x]"Mapas ou gráficos"
-
--[x]"pesquisas"
-
--[ ]"Criatividade"
-
--[x]"Lógica"
-      
-## Sprint 3 - Curva ABC
--[ ]"BrainStorm"
-
--[x]"Análise de dados"
-
--[x]"Planilha de dados"
-
--[x]"Mapas ou gráficos"
-
--[x]"pesquisas"
-
--[ ]"Criatividade"
-
--[x]"Lógica"
-      
-## Sprint 4 - Método Canvas
--[x]"BrainStorm"
-
--[x]"Análise de dados"
-
--[ ]"Planilha de dados"
-
--[ ]"Mapas ou gráficos"
-
--[x]"pesquisas"
-
--[x]"Criatividade"
-
--[x]"Lógica"
-
-
+## 
 
 # Competências desenvolvidas
 
