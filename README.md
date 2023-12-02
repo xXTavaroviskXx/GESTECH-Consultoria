@@ -68,8 +68,6 @@ Temos como objetivo melhorar a gestão da Doce Sabor utilizando da nossa aprendi
 
 
 ## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
 
 [![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
@@ -109,6 +107,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ### Mindset Digital
 Estamos incentivando nosso cliente a buscar soluções criativas para problemas ou oportuidades de crescimento, analisar o macro e micro ambiente e sempre buscar novas oportunidades e possíveis ameaças para o negócio.
 Tambem encorajamos a utilização da tecnologia e das redes sociais para manter ou aumentar sua posição no mercado.
+
 # Cronograma das Sprints
 
 ## Cronograma
