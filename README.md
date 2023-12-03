@@ -37,10 +37,11 @@ Sprint | Previsão | Status| Histórico|
 # Equipe
 
  <p align="center">
- <img src=
+ <img src=EQUIPE.jpg width="90%"
 
 
-# Objetivo do Projeto
+
+># Objetivo do Projeto
 
 Temos como objetivo melhorar a gestão da Doce Sabor utilizando da nossa aprendizagem durante o curso, reduzindo custos, aprimorando logisticas e criando nossas visões de negócio para a empresa, aumentando sua eficiência e produtvidade.
 
