@@ -119,8 +119,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Backlog do produto
 >
 <p align="center"
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
-</p>
+
 
 ## Burndown
 
