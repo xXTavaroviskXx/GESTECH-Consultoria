@@ -117,8 +117,18 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Backlog do produto
->
-<p align="center"
+
+
+![Captura de tela 2023-12-11 224154](https://github.com/Fox-Six-consultoria/Sprints/assets/141972941/52e0a412-373a-410c-9cce-11b48dd6d814)
+
+
+![Captura de tela 2023-12-11 224229](https://github.com/Fox-Six-consultoria/Sprints/assets/141972941/468c7852-570a-40ac-a27a-1f5ee36f2505)
+
+
+![Captura de tela 2023-12-11 224258](https://github.com/Fox-Six-consultoria/Sprints/assets/141972941/c420d30b-a71e-4266-b26f-0d649753e45d)
+
+
+![Captura de tela 2023-12-11 224318](https://github.com/Fox-Six-consultoria/Sprints/assets/141972941/edce6bf9-4602-418e-a277-d196fcb85799)
 
 
 ## Burndown
