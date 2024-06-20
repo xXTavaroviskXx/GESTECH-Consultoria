@@ -21,9 +21,9 @@ Neste semestre estamos trabalhando como uma consultoria para uma empresa do ramo
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 12/06/2024 | concluido| [SEM RELATÓRIO] | 
-|01 | 14/04/2024 | concluido| [Ver Relatório](https://youtu.be/EpmCNdbbi4A) | 
-|02|  05/05/2024| concluido |[Ver Relatório](https://youtu.be/JgZMVH1_BYg) | 
-|03| 26/05/2024 | concluido|[Ver Relatório](https://youtu.be/2pe3XZPupM0) | 
+|01 | 14/04/2024 | Concluido| [Ver Relatório](https://youtu.be/EpmCNdbbi4A) | 
+|02|  05/05/2024| Concluido |[Ver Relatório](https://youtu.be/JgZMVH1_BYg) | 
+|03| 26/05/2024 | Concluido|[Ver Relatório](https://youtu.be/2pe3XZPupM0) | 
 |04| 16/06/2024 | Concluido |[Ver Relatório](https://youtu.be/xu8rhoBnntw) |
 |Feira de Soluções|27/06/2024 | Ainda vai acontecer |[Ver Relatório]() | 
 
