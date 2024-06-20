@@ -20,12 +20,12 @@ Neste semestre estamos trabalhando como uma consultoria para uma empresa do ramo
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 05/09/2023 | concluido| [SEM RELATÓRIO] | 
-|01 | 24/09/2023 | concluido| [Ver Relatório](https://youtu.be/5jXWYyPR2WU) | 
-|02|  15/10/2023| concluido |[Ver Relatório](https://youtu.be/_7fCu8vkHKo) | 
-|03| 05/11/2023 | concluido|[Ver Relatório](https://youtu.be/OQ94gXruEFw/video) | 
-|04| 26/11/2023 |em progresso |[Ver Relatório](https://youtu.be/xIn6_WVyuQY) |
-|Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório]() | 
+|Kick Off | 12/06/2024 | concluido| [SEM RELATÓRIO] | 
+|01 | 14/04/2024 | concluido| [Ver Relatório](https://youtu.be/EpmCNdbbi4A) | 
+|02|  05/05/2024| concluido |[Ver Relatório](https://youtu.be/JgZMVH1_BYg) | 
+|03| 26/05/2024 | concluido|[Ver Relatório](https://youtu.be/2pe3XZPupM0) | 
+|04| 16/06/2024 | Concluido |[Ver Relatório](https://youtu.be/xu8rhoBnntw) |
+|Feira de Soluções|27/06/2024 | Ainda vai acontecer |[Ver Relatório]() | 
 
 > Possíveis status: a fazer, em progresso e concluido
 
