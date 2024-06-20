@@ -140,19 +140,17 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Burndown
 
-![Captura de tela 2023-12-02 222015](https://github.com/Fox-Six-consultoria/Sprints/assets/141972941/04a19f31-affa-437f-9c5b-0d75f551cb3f)
+
+![image](https://github.com/xXTavaroviskXx/GESTECH-Consultoria/assets/168144175/90a881cc-4f55-4828-9ab4-85a73a518939)
 
 
-![Captura de tela 2023-12-02 220650](https://github.com/Fox-Six-consultoria/Sprints/assets/141972941/abaebf6d-12e0-4810-9890-50ab6bb57f82)
+![image](https://github.com/xXTavaroviskXx/GESTECH-Consultoria/assets/168144175/b4bd1c8c-032e-4fa1-bc2b-b8ca36427fdc)
 
 
-![Captura de tela 2023-12-02 220834](https://github.com/Fox-Six-consultoria/Sprints/assets/141972941/84a01163-2f01-4f08-b691-043668ffe119)
+![image](https://github.com/xXTavaroviskXx/GESTECH-Consultoria/assets/168144175/164b451e-2ed2-401a-a1a0-77ceece4d78f)
 
 
-![Captura de tela 2023-12-02 220906](https://github.com/Fox-Six-consultoria/Sprints/assets/141972941/dc3fb165-886d-46e9-8ccd-3a905bdcc7dc)
-
-
-![Captura de tela 2023-12-02 220958](https://github.com/Fox-Six-consultoria/Sprints/assets/141972941/d8254fae-1c54-4e56-abd2-a09008fc6908)
+![image](https://github.com/xXTavaroviskXx/GESTECH-Consultoria/assets/168144175/3fbba160-391a-4ba8-bdec-fe870a4a1600)
 
 
 ## 
