@@ -66,9 +66,10 @@ Temos como objetivo melhorar a gestão da Doce Sabor utilizando da nossa aprendi
 [![SPRINT 4](https://img.youtube.com/vi/xu8rhoBnntw/0.jpg)](https://youtu.be/xu8rhoBnntw)
 
 
-## Apresentação final (se necessario)
+## Apresentação final
 
-[![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+![image](https://github.com/xXTavaroviskXx/GESTECH/assets/168144175/12be2130-9ae8-426e-bc45-029e8af3d2a5)
+
 
 
 ## Tecnologias Utilizadas
