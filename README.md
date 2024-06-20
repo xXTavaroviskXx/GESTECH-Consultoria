@@ -92,21 +92,28 @@ Temos como objetivo melhorar a gestão da Doce Sabor utilizando da nossa aprendi
 
 ### Tecnológias Específicas/Apoio
 
-* Canva
 
-* PowerPoint
+* Power BI (Apresentação de dados)
+  
+* Trello (Gestão de tarefas)
 
-* Word
+* Canva (Ediçãlo de imagens)
 
-* Excel
+* PowerPoint (Apresentações)
 
-* TTS Maker
+* Word (Formatação de documentos)
 
-* GitHub
+* Excel (Tratamento de dados)
+
+* CapCut (Edição de videos)
+
+* GitHub (Gestão de projeto)
+
+ 
   
 ### Mindset Digital
-Estamos incentivando nosso cliente a buscar soluções criativas para problemas ou oportuidades de crescimento, analisar o macro e micro ambiente e sempre buscar novas oportunidades e possíveis ameaças para o negócio.
-Tambem encorajamos a utilização da tecnologia e das redes sociais para manter ou aumentar sua posição no mercado.
+
+Estamos estimulando nossos clientes a explorar soluções criativas para desafios e oportunidades de crescimento. Além disso, incentivamos a análise do ambiente macro e micro, bem como a busca constante por novas oportunidades e possíveis ameaças ao negócio. Recomendamos também a adoção estratégica de tecnologia e o uso das redes sociais para fortalecer e expandir sua posição no mercado.
 
 # Cronograma das Sprints
 
