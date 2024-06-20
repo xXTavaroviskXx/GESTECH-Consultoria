@@ -49,7 +49,7 @@ Temos como objetivo melhorar a gestão da Doce Sabor utilizando da nossa aprendi
 
 ## Sprint 1
 
-[![SPRINT 1](https://img.youtube.com/vi/5jXWYyPR2WU/0.jpg)](https://youtu.be/5jXWYyPR2WU)
+[![SPRINT 1]([https://img.youtube.com/vi/5jXWYyPR2WU/0.jpg)](https://youtu.be/5jXWYyPR2WU](https://youtu.be/EpmCNdbbi4A))
 
 
 ## Sprint 2
