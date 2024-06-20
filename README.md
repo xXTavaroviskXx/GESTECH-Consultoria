@@ -49,23 +49,21 @@ Temos como objetivo melhorar a gestão da Doce Sabor utilizando da nossa aprendi
 
 ## Sprint 1
 
-[image](https://github.com/xXTavaroviskXx/GESTECH/assets/168144175/337a57b5-33f4-449b-8be0-bfe1670accaa)
-)](https://youtu.be/EpmCNdbbi4A)
-
+[![SPRINT 1](https://img.youtube.com/vi/EpmCNdbbi4A/0.jpg)](https://youtu.be/EpmCNdbbi4A)
 
 ## Sprint 2
 
-[![SPRINT 2](https://youtu.be/JgZMVH1_BYg)
+[![SPRINT 2](https://img.youtube.com/vi/JgZMVH1_BYg/0.jpg)](https://youtu.be/EpmCNdbbi4A)
 
 
 ## Sprint 3
 
-[![SPRINT 3](https://img.youtube.com/vi/OQ94gXruEFw/0.jpg)](https://youtu.be/EpmCNdbbi4A)
+[![SPRINT 3](https://img.youtube.com/vi/2pe3XZPupM0/0.jpg)](https://youtu.be/2pe3XZPupM0)
 
 
 ## Sprint 4
 
-[![SPRINT 4](https://img.youtube.com/vi/xIn6_WVyuQY/0.jpg)](https://youtu.be/xIn6_WVyuQY)
+[![SPRINT 4](https://img.youtube.com/vi/xu8rhoBnntw/0.jpg)](https://youtu.be/xu8rhoBnntw)
 
 
 ## Apresentação final (se necessario)
