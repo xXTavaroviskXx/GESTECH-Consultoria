@@ -37,7 +37,8 @@ Sprint | Previsão | Status| Histórico|
 # Equipe
 
  <p align="center">
- <img src=EQUIPE.jpg width="90%"
+ <img src=![image](https://github.com/xXTavaroviskXx/GESTECH/assets/168144175/ef283bde-d398-4100-97f7-38e6a89c3601)
+ width="90%"
 
 
 
