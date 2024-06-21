@@ -113,7 +113,7 @@ Temos como objetivo melhorar a gestão da Doce Sabor utilizando da nossa aprendi
   
 ### Mindset Digital
 
-Estamos estimulando nossos clientes a explorar soluções criativas para desafios e oportunidades de crescimento. Além disso, incentivamos a análise do ambiente macro e micro, bem como a busca constante por novas oportunidades e possíveis ameaças ao negócio. Recomendamos também a adoção estratégica de tecnologia e o uso das redes sociais para fortalecer e expandir sua posição no mercado.
+Estamos estimulando nossos clientes a buscar soluções criativas para problemas ou oportunidades de crescimento. Além disso, incentivamos a análise do ambiente macro e micro, bem como a busca constante por novas oportunidades e possíveis ameaças para o negócio. Também encorajamos a utilização da tecnologia e das redes sociais como estratégias para manter ou aumentar sua posição no mercado.
 
 # Cronograma das Sprints
 
